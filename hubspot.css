@@ -792,6 +792,7 @@ fieldset {
     padding: 10px;
     margin: 0;
     outline: 1px dashed green;
+    color: white;
 }
 
 #footer>div:first-child {
@@ -805,7 +806,7 @@ fieldset {
     padding: 20px;
     box-sizing: border-box;
     height: 200px;
-    outline: 1px dashed blue;
+
 
 
 }
@@ -813,4 +814,25 @@ fieldset {
 #footer {
     height: 800px;
     width: 1430px;
+    background-color: black;
+
+}
+
+#footer2 {
+
+    height: 70px;
+    width: 30%;
+    margin-left: 0;
+    background-color: bisque;
+
+}
+
+#footer3 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+#footer1 {
+    height: 35%;
 }
