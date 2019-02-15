@@ -21,7 +21,9 @@
     height: 88px;
 
 
+
 }
+
 
 
 #rightmenu {
@@ -154,7 +156,7 @@ strong {
 #top{
     height: 500px;
     width: 100%;
-    background-image: url("Asset/Image/maxresdefault.jpg");
+    background-color: deepskyblue;
 }
 #topleft {
     height: 400px;
@@ -198,6 +200,9 @@ ul li:hover ul li {
     background-color: white;
 }
 
+#imgcon {
+    padding-top: 54px;
+}
 
 
 #centerbottom {
@@ -528,6 +533,7 @@ fieldset {
     padding-left: 20px;
     margin-right: 25px;
 }
+
 
 #bottombottom {
     padding-top: 25px;
@@ -872,4 +878,13 @@ fieldset {
 #p22 {
     font-family: italic;
     font-size: small;
+}
+
+#footerright {
+    padding-right: 50px;
+}
+
+#footer4 {
+    vertical-align: baseline;
+    padding-top: 50px;
 }
