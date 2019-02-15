@@ -157,10 +157,12 @@ strong {
     height: 500px;
     width: 100%;
     background-color: deepskyblue;
+    padding-left: 70px;
+    padding-top: 30px;
 }
 #topleft {
     height: 400px;
-    width: 22% ;
+    width: 30% ;
     margin: 3%;
 }
 ul {
@@ -887,4 +889,14 @@ fieldset {
 #footer4 {
     vertical-align: baseline;
     padding-top: 50px;
+}
+
+.footertopdivs {
+    padding-left: 40px;
+}
+
+#footer4 {
+    padding-left: 30px;
+    padding-right: 60px;
+
 }
