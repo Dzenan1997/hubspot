@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09adc833-65ed-4912-a780-1f1926f459c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Asset/Image/growthhub-white-small-1.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HtmlCssTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/HtmlCssTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hubspot.css" beforeDir="false" afterPath="$PROJECT_DIR$/hubspot.css" afterDir="false" />
     </list>
@@ -18,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="292" column="114" lean-forward="true" selection-start-line="292" selection-start-column="114" selection-end-line="292" selection-end-column="114" />
+            <state relative-caret-position="15">
+              <caret line="453" column="17" lean-forward="true" selection-start-line="453" selection-start-column="17" selection-end-line="453" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -32,11 +30,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hubspot.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="615" column="15" selection-start-line="615" selection-start-column="15" selection-end-line="615" selection-end-column="15" />
+            <state relative-caret-position="725">
+              <caret line="857" column="17" selection-start-line="857" selection-start-column="17" selection-end-line="857" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -45,8 +43,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>footer</find>
       <find>500p</find>
+      <find>table2</find>
+      <find>footer</find>
       <find>id=</find>
     </findStrings>
   </component>
@@ -56,8 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hubspot.css" />
         <option value="$PROJECT_DIR$/HtmlCssTest.html" />
+        <option value="$PROJECT_DIR$/hubspot.css" />
       </list>
     </option>
   </component>
@@ -129,12 +128,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550153652120</updated>
       <workItem from="1550153653309" duration="4037000" />
-      <workItem from="1550218107984" duration="2813000" />
+      <workItem from="1550218107984" duration="3796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6850000" />
+    <option name="totallyTimeSpent" value="7833000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -166,20 +165,20 @@
     <entry file="file://$PROJECT_DIR$/Asset/Image/HSLogo_gray.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hubspot.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="615" column="15" selection-start-line="615" selection-start-column="15" selection-end-line="615" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Asset/Image/growthhub-white-small-1.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="292" column="114" lean-forward="true" selection-start-line="292" selection-start-column="114" selection-end-line="292" selection-end-column="114" />
+        <state relative-caret-position="15">
+          <caret line="453" column="17" lean-forward="true" selection-start-line="453" selection-start-column="17" selection-end-line="453" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hubspot.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="857" column="17" selection-start-line="857" selection-start-column="17" selection-end-line="857" selection-end-column="17" />
         </state>
       </provider>
     </entry>

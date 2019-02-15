@@ -824,7 +824,7 @@ fieldset {
 #footer {
     height: 800px;
     width: 1430px;
-    background-color: black;
+    background-color: #33475b;
 
 }
 
@@ -832,8 +832,9 @@ fieldset {
 
     height: 70px;
     width: 30%;
-    margin-left: 0;
-    background-color: bisque;
+    background-color: #33475b;
+    text-align: right;
+    padding-right: 50px;
 
 }
 
@@ -845,4 +846,15 @@ fieldset {
 
 #footer1 {
     height: 35%;
+}
+
+#footerright {
+    float: right;
+
+}
+
+#btn1 {
+    background-color: white;
+    color: black;
+    height: 30px;
 }
