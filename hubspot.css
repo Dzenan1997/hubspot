@@ -731,7 +731,7 @@ fieldset {
 
 #leftbot {
 
-    height: 100%;
+    height: 400px;
     width: 50%;
     padding-left: 50px;
     padding-right: 50px;
@@ -743,7 +743,8 @@ fieldset {
 
 #centralBOT {
     width: 100%;
-    height: 125%;
+    height: 800px;
+    background-color: white;
 
 
 }
@@ -785,10 +786,10 @@ fieldset {
 #dot {
     height: 400px;
     width: 400px;
-    background-color: #f2547d;
     border-radius: 50%;
     text-align: center;
     display: inline-block;
+    background-color: red;
 }
 @media only screen and (max-width: 768px) {
   #dot {

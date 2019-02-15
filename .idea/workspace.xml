@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09adc833-65ed-4912-a780-1f1926f459c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HtmlCssTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/HtmlCssTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hubspot.css" beforeDir="false" afterPath="$PROJECT_DIR$/hubspot.css" afterDir="false" />
     </list>
@@ -16,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="481" column="25" lean-forward="true" selection-start-line="481" selection-start-column="25" selection-end-line="481" selection-end-column="25" />
+            <state relative-caret-position="390">
+              <caret line="409" column="44" selection-start-line="409" selection-start-column="44" selection-end-line="409" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -30,11 +31,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hubspot.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="864" selection-start-line="864" selection-end-line="864" />
+            <state relative-caret-position="281">
+              <caret line="745" column="17" selection-start-line="745" selection-start-column="17" selection-end-line="745" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -46,8 +47,9 @@
       <find>500p</find>
       <find>table2</find>
       <find>footer</find>
-      <find>id=</find>
       <find>#foot4</find>
+      <find>id=</find>
+      <find>rightbot</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -129,12 +131,13 @@
       <option name="presentableId" value="Default" />
       <updated>1550153652120</updated>
       <workItem from="1550153653309" duration="4037000" />
-      <workItem from="1550218107984" duration="5854000" />
+      <workItem from="1550218107984" duration="6370000" />
+      <workItem from="1550233566793" duration="287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9891000" />
+    <option name="totallyTimeSpent" value="10694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -169,17 +172,17 @@
     <entry file="file://$PROJECT_DIR$/Asset/Image/growthhub-white-small-1.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hubspot.css">
+    <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="864" selection-start-line="864" selection-end-line="864" />
+        <state relative-caret-position="390">
+          <caret line="409" column="44" selection-start-line="409" selection-start-column="44" selection-end-line="409" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
+    <entry file="file://$PROJECT_DIR$/hubspot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="481" column="25" lean-forward="true" selection-start-line="481" selection-start-column="25" selection-end-line="481" selection-end-column="25" />
+        <state relative-caret-position="281">
+          <caret line="745" column="17" selection-start-line="745" selection-start-column="17" selection-end-line="745" selection-end-column="17" />
         </state>
       </provider>
     </entry>
