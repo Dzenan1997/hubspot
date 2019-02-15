@@ -252,6 +252,7 @@ ul li:hover ul li {
     width: 60%;
     text-align: center;
     margin: 0 auto;
+    padding-left: 40px;
 
 }
 
@@ -830,7 +831,7 @@ fieldset {
 }
 
 #footer {
-    height: 800px;
+    height: 650px;
     width: 1430px;
     background-color: #33475b;
 
@@ -899,4 +900,17 @@ fieldset {
     padding-left: 30px;
     padding-right: 60px;
 
+}
+
+#foot4>p:hover {
+    background-color: burlywood;
+}
+
+#idimg {
+    padding-top: 20px;
+
+}
+
+#iq {
+    padding-left: 20px;
 }
