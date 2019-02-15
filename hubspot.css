@@ -597,7 +597,7 @@ fieldset {
 }
 
 #table {
-    height: 500px;
+    //height: 500px;
     width: 80%;
     text-align: center;
     margin: 0 auto;
@@ -611,6 +611,9 @@ fieldset {
 
     display: flex;
     flex-direction: row;
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
 }
 
 #nek {
@@ -662,6 +665,13 @@ fieldset {
 
 
 
+}
+
+.tableeee {
+
+    width: 20%;
+    height: 20%;
+    text-align: center;
 }
 
 

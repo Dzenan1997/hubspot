@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09adc833-65ed-4912-a780-1f1926f459c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Asset/Image/HSLogo_gray.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asset/Image/download (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asset/Image/download (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asset/Image/facebook_circle_black-512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asset/Image/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Asset/Image/social_media_logo_medium-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Asset/Image/growthhub-white-small-1.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HtmlCssTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/HtmlCssTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hubspot.css" beforeDir="false" afterPath="$PROJECT_DIR$/hubspot.css" afterDir="false" />
@@ -26,17 +21,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="469" column="23" selection-start-line="469" selection-start-column="23" selection-end-line="469" selection-end-column="23" />
+            <state relative-caret-position="216">
+              <caret line="292" column="114" lean-forward="true" selection-start-line="292" selection-start-column="114" selection-end-line="292" selection-end-column="114" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Asset/Image/growthhub-white-small-1.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hubspot.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="753">
-              <caret line="836" column="16" selection-start-line="836" selection-start-column="16" selection-end-line="836" selection-end-column="16" />
+            <state relative-caret-position="491">
+              <caret line="615" column="15" selection-start-line="615" selection-start-column="15" selection-end-line="615" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -46,6 +46,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>footer</find>
+      <find>500p</find>
+      <find>id=</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -127,12 +129,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550153652120</updated>
       <workItem from="1550153653309" duration="4037000" />
-      <workItem from="1550218107984" duration="1843000" />
+      <workItem from="1550218107984" duration="2813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5880000" />
+    <option name="totallyTimeSpent" value="6850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -166,15 +168,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hubspot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="836" column="16" selection-start-line="836" selection-start-column="16" selection-end-line="836" selection-end-column="16" />
+        <state relative-caret-position="491">
+          <caret line="615" column="15" selection-start-line="615" selection-start-column="15" selection-end-line="615" selection-end-column="15" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Asset/Image/growthhub-white-small-1.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="469" column="23" selection-start-line="469" selection-start-column="23" selection-end-line="469" selection-end-column="23" />
+        <state relative-caret-position="216">
+          <caret line="292" column="114" lean-forward="true" selection-start-line="292" selection-start-column="114" selection-end-line="292" selection-end-column="114" />
         </state>
       </provider>
     </entry>
