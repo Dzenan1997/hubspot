@@ -16,11 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="453" column="17" lean-forward="true" selection-start-line="453" selection-start-column="17" selection-end-line="453" selection-end-column="17" />
+            <state relative-caret-position="500">
+              <caret line="499" column="19" selection-start-line="499" selection-start-column="19" selection-end-line="499" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -30,11 +30,11 @@
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hubspot.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="857" column="17" selection-start-line="857" selection-start-column="17" selection-end-line="857" selection-end-column="17" />
+            <state relative-caret-position="110">
+              <caret line="836" lean-forward="true" selection-start-line="836" selection-end-line="836" />
             </state>
           </provider>
         </entry>
@@ -55,8 +55,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HtmlCssTest.html" />
         <option value="$PROJECT_DIR$/hubspot.css" />
+        <option value="$PROJECT_DIR$/HtmlCssTest.html" />
       </list>
     </option>
   </component>
@@ -128,12 +128,12 @@
       <option name="presentableId" value="Default" />
       <updated>1550153652120</updated>
       <workItem from="1550153653309" duration="4037000" />
-      <workItem from="1550218107984" duration="3796000" />
+      <workItem from="1550218107984" duration="5059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7833000" />
+    <option name="totallyTimeSpent" value="9096000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -168,17 +168,17 @@
     <entry file="file://$PROJECT_DIR$/Asset/Image/growthhub-white-small-1.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
+    <entry file="file://$PROJECT_DIR$/hubspot.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="453" column="17" lean-forward="true" selection-start-line="453" selection-start-column="17" selection-end-line="453" selection-end-column="17" />
+        <state relative-caret-position="110">
+          <caret line="836" lean-forward="true" selection-start-line="836" selection-end-line="836" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hubspot.css">
+    <entry file="file://$PROJECT_DIR$/HtmlCssTest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="857" column="17" selection-start-line="857" selection-start-column="17" selection-end-line="857" selection-end-column="17" />
+        <state relative-caret-position="500">
+          <caret line="499" column="19" selection-start-line="499" selection-start-column="19" selection-end-line="499" selection-end-column="19" />
         </state>
       </provider>
     </entry>
